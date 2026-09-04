@@ -7,13 +7,13 @@ about:
   head: 0563200
   archived: false
   latestVersion: v0.8.0
-  collectedAt: 2026-09-04T19:25:17Z
+  collectedAt: 2026-09-04T21:05:54Z
 timeline:
   created: 2020-05-30
   lastCommit: 2026-06-13
   lastRelease: 2026-06-04
 popularity:
-  star: 3176
+  star: 3177
   watcher: 8
   fork: 175
   release: 33
@@ -86,6 +86,79 @@ total:
   openIssue: 62
   commit: 407
 ---
+path: /home/runner/.x-repo/github.com/yannh/kubeconform
+collectedAt: 2026-09-04T21:05:55Z
+loc:
+  Yaml:
+    code: 607486
+    comments: 253
+    blanks: 12
+    files: 42
+  Go:
+    code: 41180
+    comments: 9334
+    blanks: 4913
+    files: 158
+  Json:
+    code: 15118
+    comments: 0
+    blanks: 0
+    files: 5
+  Html:
+    code: 670
+    comments: 2
+    blanks: 18
+    files: 20
+  Css:
+    code: 540
+    comments: 20
+    blanks: 114
+    files: 4
+  Python:
+    code: 158
+    comments: 5
+    blanks: 22
+    files: 1
+  Xml:
+    code: 89
+    comments: 0
+    blanks: 4
+    files: 11
+  Makefile:
+    code: 70
+    comments: 7
+    blanks: 35
+    files: 4
+  Toml:
+    code: 21
+    comments: 3
+    blanks: 3
+    files: 2
+  Dockerfile:
+    code: 14
+    comments: 0
+    blanks: 1
+    files: 1
+  JavaScript:
+    code: 4
+    comments: 4
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 814
+    blanks: 254
+    files: 21
+  Text:
+    code: 0
+    comments: 45
+    blanks: 0
+    files: 3
+total:
+  code: 665554
+  comments: 10510
+  blanks: 5406
+  files: 274
 ---
 date: "2026-08-24"
 repo:
