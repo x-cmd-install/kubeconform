@@ -5,13 +5,13 @@ about:
   head: 0563200
   archived: false
   latestVersion: "v0.8.0"
-  collectedAt: 2026-09-07T05:14:43Z
+  collectedAt: 2026-09-07T19:12:49Z
 timeline:
   created: 2020-05-30
   lastCommit: 2026-06-13
   lastRelease: 2026-06-04
 popularity:
-  star: 3180
+  star: 3181
   watcher: 8
   fork: 175
   release: 33
@@ -85,7 +85,7 @@ total:
   commit: 407
 ---
 path: /home/runner/.x-repo/github.com/yannh/kubeconform
-collectedAt: 2026-09-07T05:14:45Z
+collectedAt: 2026-09-07T19:12:51Z
 loc:
   Yaml:
     code: 607486
@@ -267,7 +267,7 @@ checks:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:14:46+00:00
+  collectedAt: 2026-09-07T19:12:52+00:00
   platform:
     darwin/arm64:
       name:  kubeconform-darwin-arm64.tar.gz
