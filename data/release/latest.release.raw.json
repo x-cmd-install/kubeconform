@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 679,
       "digest": "sha256:235fc6d8801ca0b6dba3ff3d49b8751e27c7ec92f4414fe052b283ec50cca0af",
-      "download_count": 373047,
+      "download_count": 378126,
       "created_at": "2026-06-04T20:08:58Z",
       "updated_at": "2026-06-04T20:08:58Z",
       "browser_download_url": "https://github.com/yannh/kubeconform/releases/download/v0.8.0/CHECKSUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7762426,
       "digest": "sha256:71dbc87ac9f24099a62b93570e65aa06312ba6ac8aea63b7f86e9d999edf5a92",
-      "download_count": 754,
+      "download_count": 772,
       "created_at": "2026-06-04T20:08:58Z",
       "updated_at": "2026-06-04T20:08:59Z",
       "browser_download_url": "https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7276844,
       "digest": "sha256:f84f4dfbebf4a6b0b230385fa065a39ea35e02608c2b50d025dcf64775a69d67",
-      "download_count": 17603,
+      "download_count": 17892,
       "created_at": "2026-06-04T20:08:58Z",
       "updated_at": "2026-06-04T20:08:59Z",
       "browser_download_url": "https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7534236,
       "digest": "sha256:9bc2bffbf71f261128533edaf912153948b7ff238f9a531ae6d34466ec287883",
-      "download_count": 2043729,
+      "download_count": 2069327,
       "created_at": "2026-06-04T20:08:57Z",
       "updated_at": "2026-06-04T20:08:58Z",
       "browser_download_url": "https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6901136,
       "digest": "sha256:1f53fc8e81258197a35e8603054162a5af1de8c5af13746c71ab680d9534ed87",
-      "download_count": 141397,
+      "download_count": 143897,
       "created_at": "2026-06-04T20:08:58Z",
       "updated_at": "2026-06-04T20:08:59Z",
       "browser_download_url": "https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7093510,
       "digest": "sha256:3af55b2cb906b25be17e0b79594ad43c77f7b8e5cd40d555e7c31151f68a0d41",
-      "download_count": 52,
+      "download_count": 53,
       "created_at": "2026-06-04T20:08:57Z",
       "updated_at": "2026-06-04T20:08:58Z",
       "browser_download_url": "https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-linux-armv6.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7615744,
       "digest": "sha256:e3f56102bcf4f50b034a567e2482a1c5330799983ddd655952310211aef73d93",
-      "download_count": 4038,
+      "download_count": 4077,
       "created_at": "2026-06-04T20:08:57Z",
       "updated_at": "2026-06-04T20:08:58Z",
       "browser_download_url": "https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-windows-amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6931379,
       "digest": "sha256:4f3c9889f5f3a1e4aba84f9212f599ad3164d1fb32175fba3a53b505b0fffd0f",
-      "download_count": 423,
+      "download_count": 425,
       "created_at": "2026-06-04T20:08:57Z",
       "updated_at": "2026-06-04T20:08:58Z",
       "browser_download_url": "https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-windows-arm64.zip"
