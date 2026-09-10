@@ -1,0 +1,221 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: kubeconform
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: 0.7.0-r9
+  status: outdated
+  summary: A FAST Kubernetes manifests validator, with support for Custom Resources!
+  maintainers:
+    - hristiyan.d.ivanov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: altsisyphus
+  srcname: kubeconform
+  binnames:
+    - kubeconform
+    - kubeconform-debuginfo
+  visiblename: kubeconform
+  version: 0.8.0
+  origversion: 0.8.0-alt1
+  status: newest
+  summary: Kubernetes manifest validation tool
+  maintainers:
+    - tulskijms@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Other
+- repo: arch
+  subrepo: extra
+  srcname: kubeconform
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+  licenses:
+    - Apache
+- repo: homebrew
+  srcname: kubeconform
+  visiblename: kubeconform
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+- repo: homebrew
+  srcname: kubeconform
+  visiblename: kubeconform
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+- repo: macports
+  srcname: sysutils/kubeconform
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: A FAST Kubernetes manifests validator, with support for Custom Resources!
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - Apache-2
+  categories:
+    - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: kubeconform
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+  licenses:
+    - Apache
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kubeconform
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+  licenses:
+    - Apache
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kubeconform
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+  licenses:
+    - Apache
+- repo: nix_stable_24_05
+  srcname: kubeconform
+  visiblename: kubeconform
+  version: 0.6.6
+  origversion: null
+  status: outdated
+  summary: A FAST Kubernetes manifests validator, with support for Custom Resources!
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: kubeconform
+  visiblename: kubeconform
+  version: 0.6.7
+  origversion: null
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: kubeconform
+  visiblename: kubeconform
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: kubeconform
+  binnames:
+    - kubeconform
+    - kubeconform-debuginfo
+    - kubeconform-debugsource
+  visiblename: kubeconform
+  version: 0.8.0
+  origversion: 0.8.0-1.3
+  status: newest
+  summary: A fast Kubernetes manifests validator, with support for custom resources
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: kubeconform
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+  licenses:
+    - Apache
+- repo: scoop
+  subrepo: main
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.8.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: wakemeops
+  subrepo: dev
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.8.0
+  origversion: 0.8.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: 0.7.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
