@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:27:03Z
+  collectedAt: 2026-09-11T19:28:43Z
 timeline:
   created: 2020-05-30
   lastCommit: 2026-06-13
@@ -89,7 +89,7 @@ total:
   commit: 407
 ---
 path: /home/runner/.x-repo/github.com/yannh/kubeconform
-collectedAt: 2026-09-11T05:27:05Z
+collectedAt: 2026-09-11T19:28:44Z
 loc:
   Yaml:
     code: 607486
