@@ -30,8 +30,8 @@ x install kubeconform
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -47,7 +47,7 @@ x install kubeconform
 
 ## 流行度
 
-- **Star**: 3,240 · **Fork**: 184 · **开放 issue**: 186 · **贡献者**: 39
+- **Star**: 3,240 · **Fork**: 185 · **开放 issue**: 186 · **贡献者**: 39
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install kubeconform
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 4 | 0 | 3 | 0 |
-| 90d | 2026-07-29 | 0 | 0 | 8 | 0 | 4 | 0 |
-| last180d | 2026-04-30 | 1 | 7 | 10 | 0 | 6 | 8 |
-| 360d | 2025-11-01 | 1 | 8 | 12 | 3 | 9 | 8 |
-| last720d | 2024-11-06 | 2 | 16 | 16 | 8 | 27 | 16 |
+| 30d | 2026-09-28 | 0 | 0 | 3 | 0 | 2 | 0 |
+| last60d | 2026-08-29 | 0 | 0 | 4 | 0 | 3 | 0 |
+| 90d | 2026-07-30 | 0 | 0 | 8 | 0 | 4 | 0 |
+| last180d | 2026-05-01 | 1 | 7 | 10 | 0 | 6 | 8 |
+| 360d | 2025-11-02 | 1 | 8 | 12 | 3 | 8 | 8 |
+| last720d | 2024-11-07 | 2 | 16 | 16 | 8 | 27 | 16 |
 
 ## Release 资产
 
@@ -98,4 +98,4 @@ kubeconform 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:36:12Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T06:10:03Z._
