@@ -1,10 +1,21 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kubeconform
+  binname: kubeconform
+  visiblename: kubeconform
+  version: 0.7.0
+  origversion: 0.7.0-2
+  status: outdated
+  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
+  licenses:
+    - Apache
 - repo: alpine_edge
   subrepo: testing
   srcname: kubeconform
   binname: kubeconform
   visiblename: kubeconform
   version: 0.7.0
-  origversion: 0.7.0-r9
+  origversion: 0.7.0-r10
   status: outdated
   summary: A FAST Kubernetes manifests validator, with support for Custom Resources!
   maintainers:
@@ -71,8 +82,8 @@
   srcname: kubeconform
   binname: kubeconform
   visiblename: kubeconform
-  version: 0.7.0
-  origversion: 0.7.0-2
+  version: 0.6.3
+  origversion: 0.6.3-1
   status: outdated
   summary: FAST Kubernetes manifests validator, with support for Custom Resources!
   licenses:
@@ -82,19 +93,8 @@
   srcname: kubeconform
   binname: kubeconform
   visiblename: kubeconform
-  version: 0.7.0
-  origversion: 0.7.0-2
-  status: outdated
-  summary: FAST Kubernetes manifests validator, with support for Custom Resources!
-  licenses:
-    - Apache
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: kubeconform
-  binname: kubeconform
-  visiblename: kubeconform
-  version: 0.7.0
-  origversion: 0.7.0-2
+  version: 0.6.3
+  origversion: 0.6.3-1
   status: outdated
   summary: FAST Kubernetes manifests validator, with support for Custom Resources!
   licenses:
