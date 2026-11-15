@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,256 · **Forks**: 186 · **Open issues**: 186 · **Contributors**: 39
+- **Stars**: 3,255 · **Forks**: 186 · **Open issues**: 186 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-09-15 | 0 | 0 | 5 | 0 | 2 | 0 |
-| 90d | 2026-08-16 | 0 | 0 | 6 | 0 | 3 | 0 |
-| last180d | 2026-05-18 | 1 | 7 | 10 | 0 | 6 | 8 |
-| 360d | 2025-11-19 | 1 | 8 | 13 | 2 | 7 | 8 |
-| last720d | 2024-11-24 | 2 | 16 | 17 | 8 | 27 | 16 |
+| 30d | 2026-10-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-16 | 0 | 0 | 5 | 0 | 2 | 0 |
+| 90d | 2026-08-17 | 0 | 0 | 6 | 0 | 3 | 0 |
+| last180d | 2026-05-19 | 1 | 7 | 10 | 0 | 6 | 8 |
+| 360d | 2025-11-20 | 1 | 8 | 13 | 2 | 7 | 8 |
+| last720d | 2024-11-25 | 2 | 16 | 17 | 8 | 27 | 16 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for kubeconform lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:27:16Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:13:12Z._
