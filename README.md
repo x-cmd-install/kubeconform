@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 5 | 0 | 3 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 8 | 0 | 5 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 9 | 0 | 6 | 0 |
-| last180d | 2026-05-31 | 1 | 7 | 14 | 0 | 9 | 7 |
-| 360d | 2025-12-02 | 1 | 8 | 16 | 2 | 10 | 8 |
-| last720d | 2024-12-07 | 2 | 16 | 21 | 8 | 27 | 16 |
+| 30d | 2026-10-29 | 0 | 0 | 5 | 0 | 3 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 7 | 0 | 5 | 0 |
+| 90d | 2026-08-30 | 0 | 0 | 9 | 0 | 6 | 0 |
+| last180d | 2026-06-01 | 1 | 6 | 14 | 0 | 9 | 7 |
+| 360d | 2025-12-03 | 1 | 8 | 16 | 2 | 10 | 8 |
+| last720d | 2024-12-08 | 2 | 16 | 21 | 8 | 27 | 16 |
 
 ## Release assets
 
@@ -77,18 +77,6 @@ Lowest-scoring checks:
 | [kubeconform-windows-amd64.zip](https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-windows-amd64.zip) | 7.3 MiB | `native/win/x64` |
 | [kubeconform-windows-arm64.zip](https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-windows-arm64.zip) | 6.6 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **21** distros on [repology.org](https://repology.org/project/kubeconform). **8** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.7.0` | ⚠️ outdated |
-| Homebrew | `0.8.0` | ✅ latest |
-| Nix unstable | `0.8.0` | ✅ latest |
-| Alpine edge | `0.7.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.8.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kubeconform lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubeconform` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +86,4 @@ Install metadata for kubeconform lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:49:39Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:34:46Z._
